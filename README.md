@@ -17,36 +17,20 @@
 
 ---
 
-### 🧠 Research Interests
+###  Research Interests
 
 <p align="center">
-Computer Vision • Medical Image Analysis • NLP • Deep Learning
+Computer Vision • Machine Learning • NLP • Deep Learning
 </p>
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flutter,dart,mysql,docker,git,linux&perline=5"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Focus |
-|:---:|:---:|
-| 🩺 **Melanoma Detection System** | Medical Image Analysis |
-| 🎾 **AI-Powered Tennis Video Analysis** | Computer Vision |
-| 🔍 **Fashion Search Engine** | CLIP & Vector Search |
-| 💳 **Credit Card Fraud Detection** | Machine Learning |
-
-</div>
-
----
 
 <div align="center">
 
