@@ -31,6 +31,7 @@ Computer Vision • Machine Learning • NLP • Deep Learning
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flutter,dart,mysql,docker,git,linux&perline=5"/>
 </p>
 
+---
 
 <div align="center">
 
