@@ -36,19 +36,15 @@ Computer Vision • Machine Learning • NLP • Deep Learning
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mariam-emad-86b6b3281/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img height="48" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:mariememad366@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img height="48" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://www.youtube.com/@Mariam.Emaaad">
-<img src="https://skillicons.dev/icons?i=youtube"/>
+  <img height="48" src="https://cdn.simpleicons.org/youtube/FF0000" />
 </a>
 
 </div>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
